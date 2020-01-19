@@ -6,7 +6,7 @@ Word++ is a specialized text editor made with Java and focuses on modularity and
 
 ### Windows 10
 
-This program is still in experimental stage, and as such the stable version is entirely contained in a single .jar file. It has only been tested on Java 8, and there is no guarantee that it works with any other versions of Java. To download Word++, simply download the .jar file and 
+This program is still in experimental stage, and as such the stable version is entirely contained in a single .jar file. It has only been tested on Java 8, and there is no guarantee that it works with any other versions of Java. To download Word++, simply download the .jar file, make sure you have Java 8 installed, and run the file from the Downloads directory (or wherever it was saved).
 
 ## Usage
 
